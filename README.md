@@ -17,4 +17,10 @@ JS Commerce
    5. style html and body
    6. style grid-container, header, main, and footer
 
-3. Words
+3. Create Static Homepage
+   1. create ul.products
+   2. create li
+   3. create div.product
+   4. add .product-image, .product-name, .product-brand, .product-price
+   5. style ul.product and internal divs
+   6. duplicate 2 items to show 3 items
