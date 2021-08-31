@@ -32,7 +32,7 @@ JS Commerce
    4. export homepage as an object with render() method
    5. implement render()
    6. import data.js
-   7. return products mapped to <li>s inside <ul>
+   7. return products mapped to lis inside ul
    8. create app.js
    9. link app.js to index.html as module
    10. set main id to main-container
