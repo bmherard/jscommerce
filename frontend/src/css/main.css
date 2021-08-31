@@ -12,6 +12,15 @@ body {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover {
+    color: chocolate;
+}
+
 .grid-container {
     display: grid;
     grid-template-areas:
@@ -40,7 +49,7 @@ header a {
 }
 
 header a:hover {
-    color: aquamarine;
+    color: goldenrod;
 }
 
 .brand a {
@@ -82,4 +91,17 @@ footer {
 .product img {
     max-height: 26rem;
     max-width: 22rem;
+}
+
+.product-name {
+    line-height: 2.2rem;
+}
+
+.product-brand {
+    font-size: 1.2rem;
+    color: #999;
+}
+
+.product-price {
+    font-size: 2rem;
 }
